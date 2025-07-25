@@ -1,0 +1,7 @@
+__pycache__
+chroma_db
+*.pyc
+venv/
+.env
+chroma.sqlite3
+uploded_files/
